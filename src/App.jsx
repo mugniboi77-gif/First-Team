@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-    <h1>Salom</h1> 
+    <h1>Asrorbe </h1>
+    <h1>Abror</h1>
+    <h1>Mug'niy</h1>
     </>
   )
 }
